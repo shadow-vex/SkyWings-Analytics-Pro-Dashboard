@@ -25,9 +25,6 @@ SkyWings Analytics Pro Dashboard is a web-based analytics application that helps
 ## 📊 Sample Data Format
 Date,Revenue,Destination,Season
 
-## 🌐 Live Demo
-(Add GitHub Pages link here)
-
 ## 💡 Future Improvements
 - Filters & search
 - Dark mode
